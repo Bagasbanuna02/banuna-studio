@@ -53,7 +53,12 @@ export default function PortofolioView() {
           >
             <Card withBorder shadow="lg" radius={"sm"} p={"lg"}>
               <Card.Section>
-                <Image alt="porto 1" src={"/aset/portofolio/porto1.png"} />
+                <Image
+                  alt="porto 1"
+                  src={
+                    "https://github.com/Bagasbanuna02/assets/blob/main/banuna-studio/porto1.png?raw=true"
+                  }
+                />
               </Card.Section>
               <Card.Section p={"sm"}>
                 <Stack gap={"xs"}>
@@ -76,7 +81,9 @@ export default function PortofolioView() {
                   <Stack align="center" justify="center" h={"100%"}>
                     <Image
                       alt="porto 1"
-                      src={"/aset/portofolio/cooming_soon.jpg"}
+                      src={
+                        "https://github.com/Bagasbanuna02/assets/blob/main/banuna-studio/cooming_soon.jpg?raw=true"
+                      }
                     />
                   </Stack>
                 </Card>

@@ -14,16 +14,20 @@ import { useWindowScroll } from "@mantine/hooks";
 export default function HomeView() {
   return (
     <>
-      <BackgroundImage src="/aset/background2.jpg">
+      <BackgroundImage src="https://raw.githubusercontent.com/Bagasbanuna02/assets/main/banuna-studio/background_home.jpg">
         <>
           <Stack gap={20} py={{ base: 100, md: 150 }}>
             <Flex justify={"center"}>
               <AspectRatio ratio={1} style={{ flex: `0 0 ${rem(400)}` }}>
-                <Image alt="" src={"/aset/logo.png"} />
+                <Image
+                  alt=""
+                  src={
+                    "https://github.com/Bagasbanuna02/assets/blob/main/banuna-studio/logo.png?raw=true"
+                  }
+                />
               </AspectRatio>
             </Flex>
             <Stack align="center">
-              
               <Stack
                 gap={3}
                 style={{ alignContent: "center" }}
