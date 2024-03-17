@@ -1,0 +1,63 @@
+.icon_html {
+  align-items: center;
+
+  &:hover {
+    color: orange;
+  }
+}
+.icon_css {
+  align-items: center;
+  &:hover {
+    color: rgb(20, 98, 215);
+  }
+}
+.icon_js {
+  align-items: center;
+  &:hover {
+    color:  rgb(255, 247, 0);
+  }
+}
+.icon_ts {
+  align-items: center;
+  &:hover {
+    color:  rgb(8, 74, 243);
+  }
+}
+.icon_react {
+  align-items: center;
+  &:hover {
+    color:  rgb(61, 189, 228);
+  }
+}
+
+.icon_prisma {
+  align-items: center;
+  &:hover {
+    color:  rgb(142, 10, 10);
+  }
+}
+.icon_next {
+  align-items: center;
+  &:hover {
+    color:  rgb(166, 4, 131);
+  }
+}
+.icon_mantine {
+  align-items: center;
+  &:hover {
+    color:  rgb(8, 245, 233);
+  }
+}
+.icon_node {
+  align-items: center;
+  &:hover {
+    color:  rgb(8, 243, 24);
+  }
+}
+.icon_figma {
+  align-items: center;
+  &:hover {
+    color:  rgb(243, 47, 8);
+  }
+}
+
