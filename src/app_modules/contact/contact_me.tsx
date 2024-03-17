@@ -64,7 +64,7 @@ export default function ContactMeView() {
                     c={"black"}
                     //   fz={"lg"}
                   >
-                    Bagasbanuna
+                    bagasbanuna
                   </Button>
                 </Stack>
               </Group>
