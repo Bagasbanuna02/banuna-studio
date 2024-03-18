@@ -89,14 +89,6 @@ export default function PortofolioView() {
                 </Card>
               ))}
           </SimpleGrid>
-          {/* <Divider
-            mt={"lg"}
-            color="cyan"
-            size={"xl"}
-            style={{
-              borderRadius: "10px",
-            }}
-          /> */}
         </Stack>
       </Box>
     </>
